@@ -1,0 +1,3 @@
+
+minsk|08/17/2019 18:13:57|Main: Clear, description: clear sky
+london|08/17/2019 18:14:34|Main: Clouds, description: few clouds
